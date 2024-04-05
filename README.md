@@ -8,17 +8,17 @@
     ----
 # Features
 
-   -Login / Signin
+    -Login / Signin
       -Signin - Signup form
       -after singin/signup then go to browser page
 
-   -Browse (after Authentication)
+    -Browse (after Authentication)
       -Header
          -Trailer in Background
          -Title & Description
          -Movies Suggestion
             -Movies List
    
-   -NetflixGpt
+    -NetflixGpt
       -Search Bar
       -Movie Suggestion
