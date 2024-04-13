@@ -14,8 +14,11 @@
     -Implemented Signin/Signup firebase API
     -Created redux store
     -Created userSlice
-    -Implemented Sign out
-    -
+    -Implemented Sign out 
+    -Update Profile
+    -Bugfix : if the user is not logged in Redirect /browse to login page and vice-verse
+    -Unsubscribed to the onuthchanged callback
+    -Add hardcoded URL into constant file
 
     ----
 # Features
