@@ -6,3 +6,11 @@ export const BG_URL =
 
   export const LOGO =
   "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png";
+
+  export const OPTIONS={
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYjkwOGVhYzJjMzQ1NmIwM2NjZjIzOTk0NjNhZThhMyIsInN1YiI6IjY2MWE2YTkyOTY3Y2M3MDE3ZjlmNDgxMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.2gygnSL6xyaVoJnMDA-djTlYDjy6boTPdxDAUgIO8LM'
+    }
+  };
