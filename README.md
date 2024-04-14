@@ -29,8 +29,12 @@
     -Update store with trailer video
     -Embedded the youtube video and make it autoplay
     -Tailwind clsses written to make Main container look awesome as like Netflix
-
-
+    -Build Secondary Container
+    -Build Movie List
+    -Build MovieCard
+    -TMDB imaghe CDN URL
+    -Made the Browse page just like Netflix
+    -Create custom Hooks for different geners(Popular,TopRated,Upcomming...)
     ----
 # Features
 
