@@ -35,6 +35,10 @@
     -TMDB imaghe CDN URL
     -Made the Browse page just like Netflix
     -Create custom Hooks for different geners(Popular,TopRated,Upcomming...)
+    -GPT page
+    -GPT Search Bar
+    -(⭐)Multi-Language feature in GPT page
+    
     ----
 # Features
 

@@ -7,7 +7,7 @@ function MovieList({title,movies}) {
             <h1 className='pb-2 text-4xl '>{title}</h1>
     
         <div  className="flex overflow-x-scroll">
-            {movies.map(movie=><MovieCard photoPath={movie?.poster_path}/>)}
+            {movies.map(movie=><MovieCard key={movie.id} photoPath={movie?.poster_path}/>)}
         </div>
     </div>
     
